@@ -86,4 +86,4 @@ completed carefully. So this project is still under modification. Future upgradi
 enhancement will be continued to keep the system up to date.
 
 
-**Thank you for checking our project. Feel free to contact us(** `Rafat <https://www.facebook.com/rafatislam.syl>`_, `Emrul <https://www.facebook.com/emrul.cse>`_  **)if you want to use this tool.**
+**Thank you for checking our project. Feel free to contact us (** `Rafat <https://www.facebook.com/rafatislam.syl>`_, `Emrul <https://www.facebook.com/emrul.cse>`_  **) if you want to use this tool.**
