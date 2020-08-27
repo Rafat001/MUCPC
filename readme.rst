@@ -38,8 +38,7 @@ Features
 	 -  Users can see and update their profile.
 	 -  Users can write/edit/delete their own blogs.
 	 -  Users can give answers to questions posted on the discussion tab.
-	 -  Users can see other user’s profiles, leaderboards, news, blogs, historical
-ranks of national level contests.
+	 -  Users can see other user’s profiles, leaderboards, news, blogs, historical ranks of national level contests.
 	 -  Users can register for intra contests and complete assigned tasks.
 	 -  Users can live chat with team/group members.
 -  For Coach/Mentor:
@@ -47,10 +46,8 @@ ranks of national level contests.
 	 -  Mentors can create/edit/delete groups and invite participants.
 	 -  Coach can create/edit/delete teams.
 	 -  Coach can create/edit/delete contests.
-	 -  Coach/Mentor can see other user’s profiles, leaderboards, news, blogs,
-historical ranks of national level contests.
-	 -  Coach/Mentor can live chat with team/group members and give answers to
-questions posted on the discussion tab.
+	 -  Coach/Mentor can see other user’s profiles, leaderboards, news, blogs, historical ranks of national level contests.
+	 -  Coach/Mentor can live chat with team/group members and give answers to questions posted on the discussion tab.
 -  For Admin:
 	 -  Admin can post/edit/delete news.
 	 -  Admin can create new users.
@@ -63,17 +60,15 @@ questions posted on the discussion tab.
 *********
 Limitatin
 *********
--  Some features of this tool are dependent on other websites like codeforces,
-codechef, uva etc. So any problems on those websites can also affect the
-performance of our tool
+-  Some features of this tool are dependent on other websites like codeforces, codechef, uva etc. So any problems on those websites can also affect the performance of our tool
 -  Requires internet connection for using this project as it is a web based application.
--  Sufficient bandwidth and hosting space will be required for implementing the
-system.
+-  Sufficient bandwidth and hosting space will be required for implementing the system.
 
 ***************
 Technology Used
 ***************
-**Language and Framework:** PHP, Codeigniter, HTML, CSS, Bootstrap, Ajax, Javascript, jQuery 
+**Language and Framework:** PHP, Codeigniter, HTML, CSS, Bootstrap, Ajax, Javascript, jQuery
+
 **Database:** MySQL
 
 ****************
