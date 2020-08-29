@@ -58,7 +58,7 @@ Features
 	 -  Admin can delete blogs of any user.
 
 *********
-Limitatin
+Limitation
 *********
 -  Some features of this tool are dependent on other websites like codeforces, codechef, uva etc. So any problems on those websites can also affect the performance of our tool
 -  Requires internet connection for using this project as it is a web based application.
